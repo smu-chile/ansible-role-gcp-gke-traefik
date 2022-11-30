@@ -5,7 +5,7 @@ metadata:
 
 rules:
   - apiGroups:
-      - ""
+      - ''
     resources:
       - services
       - endpoints
